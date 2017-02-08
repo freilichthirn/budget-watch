@@ -121,10 +121,10 @@
     <string name="importOptionFilesystemExplanation">Wählen Sie eine bestimmte Datei aus dem Dateisystem.</string>
     <string name="importOptionFilesystemButton">Aus Dateisystem</string>
     <string name="importOptionApplicationTitle">Import aus Dateisystem</string>
-    <string name="importOptionApplicationExplanation">Verwenden Sie eine externe Anwendung wie Dropbox, Google Drive, oder Ihren bevorzugten Dateimanager, um eine Datei zu öffnen.</string>
+    <string name="importOptionApplicationExplanation">Verwenden Sie eine externe Anwendung wie Dropbox, Google Drive oder Ihren bevorzugten Dateimanager, um eine Datei zu öffnen.</string>
     <string name="importOptionApplicationButton">Verwende externe Anwendung</string>
     <string name="importOptionFixedTitle">Importiere vom Exportort</string>
-    <string name="importOptionFixedExplanation">Importiere von dem gleichen Ort im Dateisystem, wo auch die exportierten Dateien abgelegt werden.</string>
+    <string name="importOptionFixedExplanation">Importiere vom gleichen Ort im Dateisystem, an dem auch die exportierten Dateien abgelegt werden.</string>
     <string name="importOptionFixedButton">Verwende Exportort</string>
     <string name="sendLabel">Senden&#8230;</string>
 
